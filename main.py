@@ -1,1 +1,1 @@
-print("Master commit")
+x = 1
