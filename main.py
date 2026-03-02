@@ -1,1 +1,1 @@
-print("Master commit")
+y = 2
