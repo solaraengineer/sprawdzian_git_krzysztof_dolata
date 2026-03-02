@@ -1,1 +1,1 @@
-print("Master commit")
+print("1")
